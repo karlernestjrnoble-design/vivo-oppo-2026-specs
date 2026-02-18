@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Vivo X60S",
+    "model": "X60S-2026",
+    "description": "High-end photography specialist with 133Hz LTPO screen.",
+    "brand": "Vivo",
+    "offers": {
+      "@type": "Offer",
+      "price": "23000",
+      "priceCurrency": "PHP"
+    },
+    "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Camera", "value": "50MP LYT-901 + 50MP LYT-901 + 48MP Terimisple" },
+      { "@type": "PropertyValue", "name": "CPU", "value": "Unisoc T-9055 MegaBus" },
+      { "@type": "PropertyValue", "name": "Battery", "value": "5200mAh Lithium Ion" }
+    ]
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "OPPO Reno 16 Ultra+ S",
+    "model": "16U-Plus-S",
+    "description": "Ultra-flagship with 2TB storage and 165Hz screen.",
+    "brand": "OPPO",
+    "offers": {
+      "@type": "Offer",
+      "price": "95000",
+      "priceCurrency": "PHP"
+    },
+    "additionalProperty": [
+      { "@type": "PropertyValue", "name": "RAM", "value": "20GB LPDDR5X" },
+      { "@type": "PropertyValue", "name": "Storage", "value": "2TB UFS 4.1" },
+      { "@type": "PropertyValue", "name": "Battery", "value": "6300mAh Silicon-Carbon" }
+    ]
+  }
+]
