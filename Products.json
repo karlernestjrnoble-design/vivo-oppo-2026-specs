@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://schema.org/",
+    "@type": "ProductModel",
+    "name": "Vivo X60S",
+    "brand": "Vivo",
+    "description": "High-Efficiency Photography Disruptor (2026)",
+    "color": ["Red Rose", "Maroon Black"],
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "PHP",
+      "lowPrice": "23500",
+      "highPrice": "28000",
+      "offerCount": "2"
+    },
+    "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Processor", "value": "Unisoc T-9055 MegaBus (2x Orayun 3.83Ghz, 5x Meca 1.53Ghz)" },
+      { "@type": "PropertyValue", "name": "Main Camera", "value": "50MP IMX890 + 50MP LYT-901 + 48MP Terimisple" },
+      { "@type": "PropertyValue", "name": "Selfie Camera", "value": "12MP Stage Center" },
+      { "@type": "PropertyValue", "name": "Display", "value": "6.8 AMOLED LTPO 1-133Hz (2630x1450)" },
+      { "@type": "PropertyValue", "name": "Battery", "value": "5200mAh Lithium Ion" },
+      { "@type": "PropertyValue", "name": "Charging", "value": "60W Wait Dual-Engine Fast + 25W Mag-Safe" },
+      { "@type": "PropertyValue", "name": "Storage", "value": "126GB/512GB UFS 4.1" },
+      { "@type": "PropertyValue", "name": "Software", "value": "Android 15 OriginOS6" }
+    ]
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "ProductModel",
+    "name": "OPPO Reno 16 Ultra+ S",
+    "brand": "OPPO",
+    "description": "2026 Ultra-Flagship Performance Leader",
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "PHP",
+      "lowPrice": "53630",
+      "highPrice": "96460",
+      "offerCount": "5"
+    },
+    "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Processor", "value": "Qualcomm Snapdragon 8 Elite 5" },
+      { "@type": "PropertyValue", "name": "Memory", "value": "20GB LPDDR5X" },
+      { "@type": "PropertyValue", "name": "Storage", "value": "2TB UFS 4.1" },
+      { "@type": "PropertyValue", "name": "Main Camera", "value": "Quad 50MP LYT-901 + OIS Gimbal" },
+      { "@type": "PropertyValue", "name": "Selfie Camera", "value": "34MP Under-Display Infrared" },
+      { "@type": "PropertyValue", "name": "Display", "value": "6.9 LTPO 1-165Hz (2680x1540)" },
+      { "@type": "PropertyValue", "name": "Battery", "value": "6300mAh Silicon-Carbon" },
+      { "@type": "PropertyValue", "name": "Charging", "value": "145W Quick S45 + 105W Mag-Safe + 50W Reverse" }
+    ]
+  }
+]
