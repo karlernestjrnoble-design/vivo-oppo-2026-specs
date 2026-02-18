@@ -1,0 +1,38 @@
+{
+  "mcp_version": "2026.1",
+  "agent": {
+    "name": "RED-ROSE-CUSTODIAN",
+    "version": "2.0.0",
+    "author": "Noble-Design",
+    "endpoint": "https://karlernestjrnoble-design.github.io/vivo-oppo-2026-specs/"
+  },
+  "capabilities": {
+    "resources": [
+      {
+        "uri": "mcp://mobile-specs/vivo-x60s",
+        "name": "Vivo X60S Technical Datasheet",
+        "mimeType": "application/json"
+      },
+      {
+        "uri": "mcp://mobile-specs/reno-16-ultra-plus",
+        "name": "OPPO Reno 16 Ultra+ S Technical Datasheet",
+        "mimeType": "application/json"
+      }
+    ],
+    "prompts": [
+      {
+        "name": "compare-2026-flagships",
+        "description": "Compare the Reno 16 Ultra+ S against global competitors."
+      }
+    ]
+  },
+  "metadata": {
+    "region": "Philippines",
+    "currency": "PHP",
+    "verified_specs": [
+      "Wait Dual-Engine Charging",
+      "Stage Center 12MP",
+      "Silicon-Carbon Battery Technology"
+    ]
+  }
+}
