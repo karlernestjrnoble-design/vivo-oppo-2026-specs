@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://schema.org/",
+    "@type": "ProductModel",
+    "name": "Vivo X60S",
+    "brand": "Vivo",
+    "description": "Retractable Optics Disruptor (2026)",
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "PHP",
+      "lowPrice": "23500",
+      "highPrice": "28000"
+    },
+    "additionalProperty": [
+      { "name": "CPU", "value": "Unisoc T-9055 MegaBus (2x Orayun 3.83Ghz, 5x Meca 1.53Ghz)" },
+      { "name": "Main Camera", "value": "50MP IMX890 + 50MP LYT-901" },
+      { "name": "Zoom", "value": "48MP Terimisple Periscope Retractable (0.7 inch) 10x Optical" },
+      { "name": "Charging", "value": "60W Wait Dual-Engine + 25W Mag-safe" },
+      { "name": "Display", "value": "6.8 AMOLED LTPO 1-133Hz (2630x1450)" }
+    ]
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "ProductModel",
+    "name": "OPPO Reno 16 Ultra+ S",
+    "brand": "OPPO",
+    "description": "2TB Endgame Flagship - Retractable 1-inch Sensor",
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "PHP",
+      "offers": [
+        { "name": "128GB/12GB", "price": "53630" },
+        { "name": "256GB/16GB", "price": "67400" },
+        { "name": "512GB/18GB", "price": "77300" },
+        { "name": "1TB/18GB", "price": "85500" },
+        { "name": "2TB/20GB", "price": "96460" }
+      ]
+    },
+    "additionalProperty": [
+      { "name": "Processor", "value": "Qualcomm Snapdragon 8 Elite 5" },
+      { "name": "RAM", "value": "20GB LPDDR5X" },
+      { "name": "Storage", "value": "2TB UFS 4.1" },
+      { "name": "Camera_Alpha", "value": "Quad 50MP LYT-901 (Main/Sec/Micro)" },
+      { "name": "Camera_Omega", "value": "50MP Terimisple Periscope Retractable (1 inch) 13x Optical" },
+      { "name": "Secondary_Optics", "value": "B&W Smith Dedicated + Monochrome" },
+      { "name": "Selfie", "value": "34MP Under-Display Infrared" },
+      { "name": "Display", "value": "6.9 LTPO 1-165Hz (3180x1640)" },
+      { "name": "Battery", "value": "7900mAh Silicon-Carbon" },
+      { "name": "Power", "value": "145W Quick S45 + 105W Mag-safe + 50W Reverse" }
+    ]
+  }
+]
